@@ -1,8 +1,9 @@
-torch
-torchvision
-torchaudio
 ultralytics==8.0.30
 opencv-python-headless
 numpy
 pillow
 streamlit
+py-opencv
+torch==2.2.0
+torchvision==0.17.0
+torchaudio==2.2.0
