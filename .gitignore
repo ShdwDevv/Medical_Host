@@ -1,0 +1,16 @@
+Dataset
+Input_Images
+InputOrig_Images
+Output_Images
+yolov8
+Notes.md
+test01.jpg
+test02.jpg
+test05.jpg
+test04.jpg
+temp_image.jpg
+temp_image.png
+all_requirements.txt
+main.py
+segmented_output.png
+tempCodeRunnerFile.py
