@@ -1,8 +1,9 @@
+python==3.10
 streamlit
-ultralytics==8.0.197
-torch==2.0.1
+ultralytics==8.0.30  # Ensure it's compatible
+torch==2.0.1  # Now it will work
 torchvision==0.15.2
 torchaudio==2.0.1
-opencv-python-headless==4.8.0.76
+opencv-python-headless==4.8.0.76  # Use headless version
 numpy
 pillow
